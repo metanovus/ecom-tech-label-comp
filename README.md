@@ -8,6 +8,7 @@
 
 * Презентация проекта: [Google Slides](https://docs.google.com/presentation/d/1SL5l4pMNIuPIMnzLr272B43lWurdWsky/edit#slide=id.p1)
 * Видеодемонстрация проекта: [Google Slides](https://docs.google.com/presentation/d/1SL5l4pMNIuPIMnzLr272B43lWurdWsky/edit#slide=id.p6)
+* Полная версия проекта: [ссылка на GitHub](https://github.com/metanovus/jarvis-ecom-tech)
 
 Проект **Jarvis** — это сервис для разметки данных с использованием двух типов разметки: поиск (оценка релевантности товара запросу) и матчинг (сравнение похожести товаров). Система разработана для автоматизации процесса разметки и предоставляет удобный интерфейс как для администраторов, так и для асессоров.
 
